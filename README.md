@@ -6,7 +6,7 @@
 
 1. Agregar en la carpeta ```src``` los programas realizados en las prácticas siguientes:
     * [P1.2 - Ejercicios básicos](https://revilofe.github.io/section1/u01/practica/PROG-U1.-Practica002/) *(cada ejercicio en un fichero ej01.py al ej27.py)*
-    * **P1.2b - OPCIONAL Ejercicios básicos EXTRA** *(ver en Moodle, modificar ej03.py, ej04.py, ej05.py al ej10.py)*
+    * **P1.2b - Ejercicios básicos EXTRA** *(ver en Moodle, modificar ej03.py, ej04.py, ej05.py al ej10.py)*
     * **P1.7 - Proporciona una solución a estos problemas** *(ver en Moodle, crear ej28.py, ej29.py y ej30.py)*
     * **P1.8 - Programa en Python los siguientes algoritmos** *(ver en Moodle, crear ej31.py al ej36.py)*
     * **P1.9 - Crea una función en los siguientes ejercicios** *(ver en Moodle, crear ej01_def.py, ej02_def.py, ej04_def.py, ej05_def.py y ej11_def.py)*
