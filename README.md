@@ -1,4 +1,4 @@
-# Actividad: **Ejercicios básicos de introducción al desarrollo de software con Python**
+# Actividad: **Ejercicios básicos de introducción a Python**
 
 **ID actividad:** PROG-2425-U1-01
 
