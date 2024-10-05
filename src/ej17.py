@@ -1,7 +1,6 @@
-nombre=input("Escribe tu nombre: ")
-numero=int(input("Escribe un número: "))
-nombre= nombre+" "
-a = nombre*numero
+nombre = input("Escribe tu nombre  ")
 
-print(f"{a}")
+numero = int(input("Introduce un número entero: "))
 
+for _ in range(numero):
+    print(nombre)
