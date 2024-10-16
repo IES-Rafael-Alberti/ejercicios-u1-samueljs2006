@@ -4,7 +4,7 @@ def calcular_precio(importe: float , iva: float) -> str:
     precio_final = importe +(importe * iva / 100)
 
     resultado = f"El precio final del artículo con IVA ({iva:.2f}) es {precio_final:.2f}€."
-    return round (resultado, 2)
+    return (resultado)
  
 
 def main():
