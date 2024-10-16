@@ -1,7 +1,7 @@
 def calcular_suma(num):
     suma = (num * (num + 1)) /2
 
-    return f"Resultado: {suma:.2f}"
+    return  f"Resultado: {suma:.2f}"
 
 
 def main():
