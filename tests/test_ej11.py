@@ -7,5 +7,5 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 from src.ej11_dep  import calcular_suma
 
 def test_calcular_suma():
-    assert calcular_suma(7) == 28.00
-    assert calcular_suma(9) == 45.00
+    assert calcular_suma(7) == "Resultado: 28.00"
+    assert calcular_suma(9) == "Resultado: 45.00"
