@@ -1,0 +1,1 @@
+print(f"resultado :{int(input(""))+int(input(""))+int(input(""))}")
